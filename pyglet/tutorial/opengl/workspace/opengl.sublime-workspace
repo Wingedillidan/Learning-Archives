@@ -1,0 +1,754 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"target_",
+				"target_resolution	statement"
+			],
+			[
+				"fire_",
+				"fire_limit	statement"
+			],
+			[
+				"fire",
+				"fire_cooldown	statement"
+			],
+			[
+				"posdipl",
+				"posdisplaysake"
+			],
+			[
+				"testg",
+				"testgroup	statement"
+			],
+			[
+				"Entit",
+				"EntityPos	class"
+			],
+			[
+				"testgr",
+				"testgrouppos	statement"
+			],
+			[
+				"MOUS",
+				"MOUSEBUTTONDOWN	instance"
+			],
+			[
+				"MOUSE",
+				"MOUSEBUTTONUP	instance"
+			],
+			[
+				"pos",
+				"pos	forstmt"
+			],
+			[
+				"num",
+				"num	statement"
+			],
+			[
+				"need",
+				"needlib_maths	statement"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"coll",
+				"collaks"
+			],
+			[
+				"colla",
+				"collaks_naive	import"
+			],
+			[
+				"None",
+				"None	instance"
+			],
+			[
+				"nxt",
+				"nxt	statement"
+			],
+			[
+				"i",
+				"i	param"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Wingedillidan/Dropbox/Programming/pyglet/tutorial/opengl/shapes.py",
+			"settings":
+			{
+				"buffer_size": 1845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Wingedillidan/Dropbox/Programming/pyglet/tutorial/opengl/senpai_shapes.py",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Wingedillidan/Desktop/fixed_resolution.py",
+			"settings":
+			{
+				"buffer_size": 6083,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"usage",
+				"Anaconda: Find object usage"
+			],
+			[
+				"",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"fold",
+				"Fold Python : go to import"
+			],
+			[
+				"goot",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"anaconda",
+				"Anaconda: Find object usage"
+			],
+			[
+				"python",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"check",
+				"Git: Checkout Tag"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"instea",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/opengl"
+	],
+	"file_history":
+	[
+		"/C/Users/Wingedillidan/Desktop/astraea/astraea.py",
+		"/C/Users/Wingedillidan/Desktop/font_comparison.py",
+		"/C/Users/Collin McLean/Desktop/pyglet-1.2.4/examples/astraea/astraea.py",
+		"/C/Users/Collin McLean/Desktop/pyglet-1.2.4/examples/events.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/senpai/version5/asteroids.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/resources.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/player.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/physicalobject.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/game/physicalobject.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/util.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/load.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/bullet.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/asteroids/asteroidspycmake.py",
+		"/C/Users/Collin McLean/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Collin McLean/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/OMGOODNESS.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/coordinate.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pyglet/tutorial/argsnkwargs.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/PosTool/menu.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/data/menu.bmp",
+		"/C/Python27/Lib/site-packages/pygame/sprite.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/PosTool/screen.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/data/chimp.bmp",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/PosTool/screen",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/pygame_examples/chimp.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/setup.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/PosTool/.gitignore",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/rightclick/.gitignore",
+		"/C/Users/Collin McLean/Dropbox/Programming/pygame/chimp.py",
+		"/C/Python27/Lib/site-packages/pygame/examples/chimp.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collatz/collatz/chimp.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collatz/collatz/collatz.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/rightclick/setup.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/linkedlist.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/setup.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/collatz/collatz_naive.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/tests/test_collatz.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/collatz/collatz.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/tests/test_collaks_naive.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/collaks/__init__.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks/__init__.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/lpthw/ex48/tests/ex48_tests.py",
+		"/C/Users/Collin McLean/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/fizzbuzz.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/collaks.py",
+		"/C/Users/Collin McLean/Dropbox/Programming/algorithms/algorithms (Collin's conflicted copy 2015-09-09).sublime-workspace",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/ui.txt",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/sail.py",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/ui.py",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/event.py",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/main.py",
+		"/C/Users/Wingedillidan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Wingedillidan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Wingedillidan/Dropbox/Programming/lpthw/game/new_file.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xrange(",
+			"globa",
+			"global",
+			")",
+			",",
+			"0",
+			"10",
+			"0.5",
+			"draw",
+			"game",
+			"game.",
+			"import",
+			"newb",
+			"distraction",
+			"line",
+			"count",
+			"('x' + (i+1) + ' > ')",
+			"case",
+			"True",
+			"                    \n",
+			"18",
+			"deselector",
+			"_deselector",
+			"selector",
+			"deselector",
+			"lostsprites",
+			"move",
+			"direction",
+			"for item in selections.sprites():",
+			"lf.",
+			"selectbot",
+			"grid",
+			"grid_size",
+			")",
+			"size, color",
+			"WHITE",
+			"(0, 0, 255)",
+			"(0, 255, 0)",
+			"(255, 0, 0)",
+			"(255, 255, 255)",
+			"(0, 0, 0)",
+			"Entity",
+			"(0, 0, 0)",
+			".height-1",
+			"(0, 0, 0)",
+			"pdb",
+			", ",
+			"pygame.sprite.Sprite",
+			"ref.",
+			"= ",
+			"self.",
+			"image",
+			"def",
+			"image",
+			"p\"",
+			", ",
+			"\")",
+			"\"",
+			"):\n",
+			"current",
+			"pos",
+			"collaks",
+			"Collak",
+			"...\"",
+			"listman",
+			"thresh",
+			"endforreals",
+			"yaaydisplaay",
+			"yaaydisplaay = [i]",
+			"whereivebeen",
+			"Conjections",
+			"conjections",
+			"stow",
+			"holdme",
+			"display",
+			"()\n",
+			"setnxt",
+			"space",
+			"nxt",
+			"_ds",
+			"next",
+			"name",
+			"i",
+			"len",
+			"white",
+			"whitespace",
+			"msg_invalid",
+			"\n            ",
+			"            ",
+			"x1",
+			"fuel",
+			"hp",
+			"fuel",
+			"self.hp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Wingedillidan/Dropbox/Programming/pyglet/tutorial/opengl/shapes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/Wingedillidan/Dropbox/Programming/pyglet/tutorial/opengl/senpai_shapes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Wingedillidan/Desktop/fixed_resolution.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4565,
+								4565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "opengl.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"game\\resources.py"
+			],
+			[
+				"pla",
+				"game\\player.py"
+			],
+			[
+				"phy",
+				"game\\physicalobject.py"
+			],
+			[
+				"ph",
+				"game\\physicalobject.py"
+			],
+			[
+				"util",
+				"game\\util.py"
+			],
+			[
+				"load",
+				"game\\load.py"
+			],
+			[
+				"as",
+				"asteroids.py"
+			],
+			[
+				"menu.p",
+				"PosTool\\menu.py"
+			],
+			[
+				"menu",
+				"data\\menu.bmp"
+			],
+			[
+				"scre",
+				"PosTool\\screen.py"
+			],
+			[
+				"chimp",
+				"data\\chimp.bmp"
+			],
+			[
+				"set",
+				"setup.py"
+			],
+			[
+				"ent",
+				"rightclick\\entities.py"
+			],
+			[
+				"play",
+				"rightclick\\player.py"
+			],
+			[
+				"main",
+				"rightclick\\main.py"
+			],
+			[
+				"chim",
+				"pygame_examples\\chimp.py"
+			],
+			[
+				"ch",
+				"chimp.py"
+			],
+			[
+				"chi",
+				"chimp.py"
+			],
+			[
+				"coll",
+				"collatz\\collatz\\collatz_naive.py"
+			],
+			[
+				"te",
+				"collatz\\tests\\test_collatz.py"
+			],
+			[
+				"collat",
+				"collaks\\collaks\\collatz.py"
+			],
+			[
+				"collaks/",
+				"collaks\\setup.py"
+			],
+			[
+				"colla",
+				"collaks\\collaks\\collaks.py"
+			],
+			[
+				"ui.p",
+				"ui.py"
+			],
+			[
+				"ui",
+				"ui.txt"
+			],
+			[
+				"sail",
+				"sail.py"
+			],
+			[
+				"event",
+				"event.py"
+			],
+			[
+				"ui.t",
+				"ui.txt"
+			],
+			[
+				"",
+				"ui.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 73.0,
+		"last_filter": "ship",
+		"selected_items":
+		[
+			[
+				"ship",
+				"Ship"
+			],
+			[
+				"change",
+				"change"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

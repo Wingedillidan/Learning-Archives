@@ -1,0 +1,42 @@
+.myNewStyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.my2ndNewStyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.my3rdNewStyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF0000;
+    margin: 0;
+}
+
+h1 {
+    font-family: Garamond, "Times New Roman", serif;
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a {
+    background: rgb(0, 255, 0);
+    color: black;
+    font-weight: bold;
+    padding: 0.5em;
+    border: 1px solid #FF0000;
+    text-decoration: none;
+}
+
+a:link { background: rgb(0, 0, 153); }
+a:visited { background: rgb(0, 153, 153); }
+a:hover { background: rgb(0, 96, 255); }
+a:active { background: rgb(255, 0, 102); }
